@@ -1,3 +1,4 @@
+test-branch commit
 merge conflict change from master branch
 merge conflict test
 2nd commit
